@@ -1,12 +1,12 @@
 {
   "prefix":"!",
-  "owner":["519666024220721152"],
+  "owner":["838896675649093684"],
   "nodes":[
     {
-      "name":"v1",
-      "host":"lavalink2.botsuniversity.ml",
+      "name":"AjieDev",
+      "host":"lava-v3.ajieblogs.eu.org",
       "port": 443,
-      "password": "mathiscool",
+      "password": "https://dsc.gg/ajidevserver",
       "secure": true
     }
   ]
